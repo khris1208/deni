@@ -1,0 +1,20 @@
+#ifndef HEADER_H
+#define HEADER_H
+void q1(void);
+void q2(void);
+void q3(void);
+void q4(void);
+void q5(void);
+void q6(void);
+void q7(void);
+void q8(void);
+void q9(void);
+void q10(void);
+void q11(void);
+void q12(void);
+void q13(void);
+void q14(void);
+void q15(void);
+void q16(void);
+void q17(void);
+#endif
